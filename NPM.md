@@ -16,3 +16,8 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 
 [node-sass](https://www.npmjs.com/package/node-sass)
 App.scss
+
+## API
+
+[node-fetch](https://www.npmjs.com/package/node-fetch) [lib/fetch.js](https://github.com/AmbireTech/wallet/blob/main/src/lib/fetch.js)
+
