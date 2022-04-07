@@ -8,7 +8,7 @@ useEffect
   }, [obj]) //物件本身值的判斷 每次宣告都不同 重複渲染
 ```
 
-useMemo
+[useMemo](https://hiskio.com/courses/629/lectures/134472)
 
 ```ts
 import React, { useEffect, useState, useMemo, useCallback } from "react"
