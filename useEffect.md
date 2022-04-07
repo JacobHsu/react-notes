@@ -28,6 +28,7 @@ const App: React.FC = () => {
     return () => {}
   }, [])
 
+  // useCallback 想記憶的與useMemo一樣 差在輸入是function 非物件或陣列
   const memoFunc1 = useCallback(function() {
     // TODO del
     console.log('here')
