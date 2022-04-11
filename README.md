@@ -1,5 +1,13 @@
 # react-notes
 
+[Adding TypeScript](https://create-react-app.dev/docs/adding-typescript/)
+
+```js
+npx create-react-app my-app --template typescript
+or
+yarn create react-app my-app --template typescript
+```
+
 [Using Create React App](https://react-redux.js.org/introduction/getting-started)
 
 ```js
