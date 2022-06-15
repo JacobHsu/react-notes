@@ -17,3 +17,17 @@ npx create-react-app my-app --template redux
 # Redux + TypeScript template
 npx create-react-app my-app --template redux-typescript
 ```
+
+[Importing a Component](https://pjchender.dev/react/note-create-react-app/)
+
+jsconfig.json
+
+```js
+// ./jsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
+```
