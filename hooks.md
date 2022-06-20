@@ -8,7 +8,7 @@ export const Tabs = () => {
     return (
           <BottomNavigation
             onChange={(event, newValue) => {
-              useUpdatePage(newValue)
+              updatePage(newValue)
 
         }}
 ```
