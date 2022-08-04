@@ -10,7 +10,8 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 
 ## UI
 
-[React Icons](https://react-icons.github.io/react-icons)
+[React Icons](https://react-icons.github.io/react-icons)   
+[react-window](https://www.npmjs.com/package/react-window) pancake > CurrencySearch  
 
 ## sass
 
