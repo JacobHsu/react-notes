@@ -31,3 +31,6 @@ jsconfig.json
   "include": ["src"]
 }
 ```
+
+[Docusaurus](https://docusaurus.io/zh-CN/) · Easy to Maintain Open Source Documentation
+`$ npx docusaurus-init`
