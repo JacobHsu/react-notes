@@ -34,3 +34,12 @@ jsconfig.json
 
 [Docusaurus](https://docusaurus.io/zh-CN/) · Easy to Maintain Open Source Documentation
 `$ npx docusaurus-init`
+
+## cra
+
+如果想要無 eject 重寫 CRA 配置
+
+使用 [craco](https://github.com/dilanx/craco) 覆蓋配置  (
+Material-UI AntDesign4 官方推薦)
+使用 react-app-rewired + customize-cra 組合覆蓋配置
+
