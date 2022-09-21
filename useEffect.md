@@ -50,3 +50,7 @@ const App: React.FC = () => {
 
 export default App
 ```
+
+## References
+
+[Async Code in useEffect](https://www.udemy.com/course/react-redux/learn/lecture/20787690#overview)
