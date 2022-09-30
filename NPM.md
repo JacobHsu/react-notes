@@ -15,6 +15,10 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 
 [country-telephone-currency-data](https://www.npmjs.com/package/country-telephone-currency-data)
 
+### slider 
+
+[swiper](https://www.npmjs.com/package/swiper) [demos](https://swiperjs.com/demos)
+
 ## sass
 
 [node-sass](https://www.npmjs.com/package/node-sass)
