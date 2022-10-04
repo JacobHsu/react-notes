@@ -26,7 +26,9 @@ App.scss
 
 ## API
 
-[node-fetch](https://www.npmjs.com/package/node-fetch) [lib/fetch.js](https://github.com/AmbireTech/wallet/blob/main/src/lib/fetch.js)
+[node-fetch](https://www.npmjs.com/package/node-fetch) [lib/fetch.js](https://github.com/AmbireTech/wallet/blob/main/src/lib/fetch.js)  
+
+[graphql-request](https://www.npmjs.com/package/graphql-request)
 
 ## time
 
