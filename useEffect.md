@@ -51,6 +51,10 @@ const App: React.FC = () => {
 export default App
 ```
 
+### 搜索優化 防抖函數 debounded 
+
+[input search deboundedTerm](https://www.udemy.com/course/react-redux/learn/lecture/20787776#overview)
+
 ## References
 
 [Async Code in useEffect](https://www.udemy.com/course/react-redux/learn/lecture/20787690#overview)
