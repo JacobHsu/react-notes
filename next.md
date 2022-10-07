@@ -9,4 +9,9 @@ vercel/next.js/[examples/](https://github.com/vercel/next.js/tree/canary/example
 `yarn create next-app -e with-tailwindcss [project]`
 
 
-[nft-market](https://github.com/ergo-pad/nft-market)
+[nft-market](https://github.com/ergo-pad/nft-market)  
+
+## npm
+
+[next-i18next](https://www.npmjs.com/package/next-i18next)  
+ts ex [next-i18next-typescript](https://github.com/isaachinman/next-i18next-typescript)  
