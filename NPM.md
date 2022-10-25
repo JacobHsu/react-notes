@@ -13,7 +13,11 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 [React Icons](https://react-icons.github.io/react-icons)   
 [react-window](https://www.npmjs.com/package/react-window) pancake > CurrencySearch  
 
-[country-telephone-currency-data](https://www.npmjs.com/package/country-telephone-currency-data)
+[country-telephone-currency-data](https://www.npmjs.com/package/country-telephone-currency-data)  
+
+### charts
+
+[eact-apexcharts](https://www.npmjs.com/package/react-apexcharts)  
 
 ### slider 
 
