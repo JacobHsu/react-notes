@@ -13,3 +13,8 @@ devhubapp /[devhub](https://github.com/devhubapp/devhub)
 
 client / server 
 [Marketplace-ReactJS-Project](https://github.com/Angel-Sky/Marketplace-ReactJS-Project)
+
+
+## serverless platform
+
+[netlify](https://www.netlify.com/)
