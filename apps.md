@@ -2,6 +2,8 @@ pancakeswap / [pancake-frontend](https://github.com/pancakeswap/pancake-frontend
 
 sushiswap / [sushiswap-interface](https://github.com/sushiswap/sushiswap-interface)  `next`
 
+Uniswap / [interface](https://github.com/Uniswap/interface)  
+
 
 webpack  
 `webpack -v` 4.44.1 
