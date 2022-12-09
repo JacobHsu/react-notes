@@ -38,3 +38,7 @@ App.scss
 
 [dayjs](https://www.npmjs.com/package/dayjs) 4K [moment](https://www.npmjs.com/package/moment) 4M
 
+## notification
+
+[react-toastify](https://www.npmjs.com/package/react-toastify)  
+
