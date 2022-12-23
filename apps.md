@@ -18,7 +18,11 @@ client / server
 
 
 ergo-pad / [nft-market](https://github.com/ergo-pad/nft-market) `next` `mui`  
-AmbireTech /[wallet](https://github.com/AmbireTech/wallet)  www.ambire.com
+AmbireTech /[wallet](https://github.com/AmbireTech/wallet)  www.ambire.com  
+
+### Instagram 
+
+irvingvjuarez / [stories-slider](https://github.com/irvingvjuarez/stories-slider) `vite`  
 
 ## serverless platform
 
