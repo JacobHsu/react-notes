@@ -11,6 +11,8 @@ vercel/next.js/[examples/](https://github.com/vercel/next.js/tree/canary/example
 
 [nft-market](https://github.com/ergo-pad/nft-market)  
 
+[Auth.js](https://authjs.dev/)
+
 ## npm
 
 [next-i18next](https://www.npmjs.com/package/next-i18next)  
