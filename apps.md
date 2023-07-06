@@ -1,4 +1,5 @@
-pancakeswap / [pancake-frontend](https://github.com/pancakeswap/pancake-frontend)  `next`
+pancakeswap / [pancake-frontend](https://github.com/pancakeswap/pancake-frontend)  `next`  
+`apps/web/src/pages/_app.tsx`
 
 sushiswap / [sushiswap-interface](https://github.com/sushiswap/sushiswap-interface)  `next`
 
