@@ -1,3 +1,12 @@
+`yarn create next-app `  
+
+Would you like to use App Router? (recommended) ... No / Yes
+
+`No` pages/ api _app.js _document.js index.js  
+
+`Yes` app/ layout.js page.js  
+
+
 [getting-started](https://nextjs.org/docs/getting-started)  
 
 `yarn create next-app --typescript`  
