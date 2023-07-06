@@ -1,4 +1,4 @@
-`yarn create next-app `  
+`npx create-next-app@latest `  
 
 Would you like to use App Router? (recommended) ... No / Yes
 
