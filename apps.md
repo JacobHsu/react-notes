@@ -21,6 +21,10 @@ client / server
 ergo-pad / [nft-market](https://github.com/ergo-pad/nft-market) `next` `mui`  
 AmbireTech /[wallet](https://github.com/AmbireTech/wallet)  www.ambire.com  
 
+### admin
+
+[react-admin](https://github.com/marmelab/react-admin)
+
 ### Instagram 
 
 irvingvjuarez / [stories-slider](https://github.com/irvingvjuarez/stories-slider) `vite`  
