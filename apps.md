@@ -23,7 +23,8 @@ AmbireTech /[wallet](https://github.com/AmbireTech/wallet)  www.ambire.com
 
 ### admin
 
-[react-admin](https://github.com/marmelab/react-admin)
+[react-admin](https://github.com/marmelab/react-admin)  
+[epirus-free](https://docs.epirus.io/#networks)
 
 ### Instagram 
 
