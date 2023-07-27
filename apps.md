@@ -1,7 +1,7 @@
 pancakeswap / [pancake-frontend](https://github.com/pancakeswap/pancake-frontend)  `next`  
 `apps/web/src/pages/_app.tsx`
 
-sushiswap / [sushiswap-interface](https://github.com/sushiswap/sushiswap-interface)  `next`
+sushiswap / [sushiswap-interface](https://github.com/sushiswap/sushiswap-interface)  `next`  node v16
 
 Uniswap / [interface](https://github.com/Uniswap/interface)  
 
