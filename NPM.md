@@ -50,6 +50,10 @@ App.scss
 
 [react-toastify](https://www.npmjs.com/package/react-toastify)  
 
+## Carousel
+
+[react-responsive-carousel](https://www.npmjs.com/package/react-responsive-carousel)
+
 ## 應用
 
 [html2canvas](https://html2canvas.hertzen.com/) Screenshots with JavaScript 網頁截圖應用  
