@@ -1,3 +1,7 @@
+[Mixpanel](https://docs.mixpanel.com/docs/quickstart/connect-your-data): Product Analytics for Mobile, Web & More  
+usage: [Get started with mixpanel and react](https://www.youtube.com/watch?v=H35FwN51tWQ)
+
+
 [Figma](https://www.figma.com/): the collaborative interface design tool.  
 
 [ramdajs](https://ramdajs.com/) A practical functional library for JavaScript programmers.  
