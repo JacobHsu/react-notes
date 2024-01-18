@@ -17,7 +17,8 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 
 ## React Hooks
 
-[react-use](https://github.com/streamich/react-use)
+[react-use](https://github.com/streamich/react-use)  
+[react-typewriting-effect](https://github.com/tanmaylaud/react-typewriting-effect?tab=readme-ov-file)  
 
 ### charts
 
