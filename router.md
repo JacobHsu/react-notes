@@ -1,5 +1,8 @@
 ## Azure 
 
+[reactrouter](https://reactrouter.com/en/main/start/tutorial)
+
+
 [Single Page Applications often rely on client-side routing.](https://learn.microsoft.com/en-us/azure/static-web-apps/configuration#example-configuration-file)
 
 staticwebapp.config.json
