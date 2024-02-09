@@ -1,5 +1,7 @@
 # react-notes
 
+codesandbox url `react.new`  
+
 `npm init react-app firstapp`
 
 [Adding TypeScript](https://create-react-app.dev/docs/adding-typescript/)
