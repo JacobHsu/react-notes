@@ -1,3 +1,7 @@
+# router
+
+[useNavigate](https://reactrouter.com/en/main/hooks/use-navigate#usenavigate) 
+
 ## Azure 
 
 [reactrouter](https://reactrouter.com/en/main/start/tutorial)
