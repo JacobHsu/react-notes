@@ -20,9 +20,16 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 [react-use](https://github.com/streamich/react-use)  
 [react-typewriting-effect](https://github.com/tanmaylaud/react-typewriting-effect?tab=readme-ov-file)  
 
+
+### drag and drop 
+
+[react-beautiful-dnd](https://npmtrends.com/react-beautiful-dnd-vs-react-draggable-vs-react-grid-layout)  
+["Unable to find draggable with id: 1"](https://stackoverflow.com/questions/60029734/react-beautiful-dnd-i-get-unable-to-find-draggable-with-id-1) Try removing StrictMode  
+
 ### charts
 
 [eact-apexcharts](https://www.npmjs.com/package/react-apexcharts)  
+[react-google-charts](https://www.npmjs.com/package/react-google-charts)  
 
 ## form
 
