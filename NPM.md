@@ -8,6 +8,10 @@
 [redux-persist](https://github.com/rt2zz/redux-persist) localStorage
 ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-frontend](https://github.com/pancakeswap/pancake-frontend/blob/develop/src/state/index.ts)
 
+## Build
+
+[react-app-rewired](https://www.npmjs.com/package/react-app-rewired)
+
 ## UI
 
 [React Icons](https://react-icons.github.io/react-icons)   
