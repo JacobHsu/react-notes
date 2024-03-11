@@ -10,7 +10,7 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 
 ## Build
 
-[react-app-rewired](https://www.npmjs.com/package/react-app-rewired)
+[react-app-rewired](https://www.npmjs.com/package/react-app-rewired) config-overrides.js
 
 ## UI
 
