@@ -16,3 +16,15 @@ index.html
 ```
 
 punlic/wasm/ruffle.js
+
+
+[Interface DataLoadOptions](https://ruffle.rs/js-docs/master/interfaces/DataLoadOptions.html)  
+[contextMenu](https://ruffle.rs/js-docs/master/enums/ContextMenu.html)  
+````
+      window.RufflePlayer.config = {
+        splashScreen: false,
+        preferredRenderer: "canvas",
+        backgroundColor: "#6F78A3",
+        contextMenu: "off",
+      };
+````
