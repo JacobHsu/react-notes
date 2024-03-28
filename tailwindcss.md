@@ -19,3 +19,6 @@ module.exports = {
   // important: '#__next',
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
 ```
+
+Q: VSCode 噴 `Unknown at rule @tailwind` 解決方式  
+A: VSCode 安裝 PostCSS Language Support 套件
