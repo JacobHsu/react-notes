@@ -74,5 +74,6 @@ App.scss
 
 [html2canvas](https://html2canvas.hertzen.com/) Screenshots with JavaScript 網頁截圖應用  
 [Tesseract.js](https://tesseract.projectnaptha.com/) is a pure Javascript port of the popular Tesseract OCR engine.  
-[react-draggable](https://www.npmjs.com/package/react-draggable) A simple component for making elements draggable.
+[react-draggable](https://www.npmjs.com/package/react-draggable) A simple component for making elements draggable.  
+[react-chat-elements](https://www.npmjs.com/package/react-chat-elements) Chat UI package for React  
 
