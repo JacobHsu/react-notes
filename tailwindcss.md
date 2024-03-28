@@ -22,3 +22,8 @@ module.exports = {
 
 Q: VSCode 噴 `Unknown at rule @tailwind` 解決方式  
 A: VSCode 安裝 PostCSS Language Support 套件
+
+
+bug
+
+`yarn add -D @babel/plugin-proposal-private-property-in-object`
