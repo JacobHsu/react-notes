@@ -28,3 +28,49 @@ punlic/wasm/ruffle.js
         contextMenu: "off",
       };
 ````
+
+# swf 溝通 html
+
+
+```
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+  <body>
+    <div id="ruffle" class="gameloc"></div>
+    <div id="displayText"></div>
+    <script type="text/javascript">
+      function displayText(text) {
+        document.getElementById("displayText").innerHTML = text;
+      }
+
+      let ruffle = window.RufflePlayer.newest();
+      let player = ruffle.createPlayer();
+      document.getElementById("ruffle").appendChild(player);
+
+      player.addEventListener("loadedmetadata", () => {
+        console.info(player.metadata.isActionScript3);
+        console.info(player.metadata);
+      });
+      player.load({ url: "test_as2_hello.swf", allowScriptAccess: true });
+    </script>
+  </body>
+```
+
+react
+```js
+  window.displayText = (text) => {
+    fetchWelcomeVoice();
+  };
+```
+
+flash AS2.0
+
+```js
+// 定义要传递的文本
+var text:String = "Hello, world!";
+
+// 使用 getURL 函数调用 JavaScript 函数，并将文本作为参数传递
+getURL("javascript:displayText('" + text + "');");
+
+```
+
+
