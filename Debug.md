@@ -34,6 +34,8 @@ export NVM_DIR="$HOME/.nvm"
 
 `nvm`
 
-`nvm install 18`  
-`nvm use 18`  
+`nvm install 16`  
+`nvm use 16`  
 `node -v`  
+
+[node version](https://nodejs.org/en/about/previous-releases)
