@@ -3,6 +3,7 @@
 [getting-started](https://react-redux.js.org/introduction/getting-started)  
 
 `yarn add react-redux`  
+`yarn add @reduxjs/toolkit`  
 
 index.js
 
