@@ -1,5 +1,9 @@
 # redux
 
+[getting-started](https://react-redux.js.org/introduction/getting-started)  
+
+`yarn add react-redux`  
+
 index.js
 
 ```js
