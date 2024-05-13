@@ -37,7 +37,11 @@ ex [react-redux-ts](https://github.com/JacobHsu/react-redux-ts) [pancake-fronten
 
 ## form
 
-[surveyjs](https://surveyjs.io/form-library/documentation/get-started-react)
+[surveyjs](https://surveyjs.io/form-library/documentation/get-started-react)  
+
+## Alert
+
+[sweetalert2](https://www.npmjs.com/package/sweetalert2) JavaScript's popup boxes  
 
 ### slider 
 
