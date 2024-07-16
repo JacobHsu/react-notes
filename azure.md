@@ -1,3 +1,17 @@
+## Next.js
+
+[在 Azure Static Web Apps 上部署混合式 Next.js 網站](https://learn.microsoft.com/zh-tw/azure/static-web-apps/deploy-nextjs-hybrid)
+
+package.json
+```js
+{
+  ...
+  "engines": {
+    "node": "18.17.1"
+  }
+}
+```
+
 Q: 複製URL另貼404
 
 ## Azure 
