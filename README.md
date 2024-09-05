@@ -7,7 +7,7 @@ codesandbox url `react.new`
 [Adding TypeScript](https://create-react-app.dev/docs/adding-typescript/)
 
 ```js
-npx create-react-app my-app --template typescript
+sudo npx create-react-app my-app --template typescript
 or
 yarn create react-app my-app --template typescript
 ```
