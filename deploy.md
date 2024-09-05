@@ -27,7 +27,7 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         BRANCH: gh-pages
         FOLDER: build
 ```
@@ -43,8 +43,11 @@ package.json
 ```
 
 
-settings/secrets/actions
+[settings/secrets/actions](https://github.com/JacobHsu/front-end-roadmap/settings/secrets/actions)
 
+Actions secrets and variables
+---
+Environment secrets 空
 Repository secrets
 
-`ACCESS_TOKEN`
+`DEPLOY_TOKEN`
