@@ -1,13 +1,20 @@
 > Error: error:0308010C:digital envelope routines::unsupported
 
+[如何升级到 React 18](https://zh-hans.react.dev/blog/2022/03/08/react-18-upgrade-guide)
+
+升級 react-scripts 或 Webpack
+如果你使用的是 Create React App 或 Webpack，首先應該確保它們是最新版本，因為新版本通常會解決與 Node.js 的兼容性問題。
+
 ```js
-  "scripts": {
-    "build": "CI=false && NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+yarn add react react-dom
+yarn add react-scripts
 ```
 
-
-無法識別 檢查 Provider 
-eg [fix: UserAuthContextProvider App.js](https://github.com/JacobHsu/react-mui-auth-phone/commit/30f34f4a40966744c9b60370b934a42b3c5167d5)
+```
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "react-scripts": "^5.0.1",
+```
 
 > Error: error:0308010C:digital envelope routines::unsupported
 
