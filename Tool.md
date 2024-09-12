@@ -19,4 +19,8 @@ usage: [Get started with mixpanel and react](https://www.youtube.com/watch?v=H35
 
 [Remix](https://remix.ethereum.org/) - Ethereum IDE `smart contracts`
 
+## Doc
+
+[APIDOC](https://apidocjs.com/) Inline Documentation for RESTful web APIs  
+
 
