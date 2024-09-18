@@ -1,3 +1,5 @@
+[如何处理 Node 报错 Error: error:0308010c:digital envelope routines::unsupported](https://www.freecodecamp.org/chinese/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/)
+
 > Error: error:0308010C:digital envelope routines::unsupported
 
 [如何升级到 React 18](https://zh-hans.react.dev/blog/2022/03/08/react-18-upgrade-guide)
