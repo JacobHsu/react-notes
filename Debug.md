@@ -18,6 +18,10 @@ yarn add react-scripts
   "react-scripts": "^5.0.1",
 ```
 
+> Module not found: Error: Can't resolve 'buffer'
+
+[How to Polyfill node core modules in webpack 5](https://github.com/JacobHsu/hbs-azure-p/issues/3)  
+
 > Error: error:0308010C:digital envelope routines::unsupported
 
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
