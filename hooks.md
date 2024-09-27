@@ -1,4 +1,4 @@
-**reducer** Just like array.reduce(), reducers accumlate ('reduce') actions over time  
+[**reducer**](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37350954#overview) Just like array.reduce(), reducers accumlate ('reduce') actions over time  
 
 [ahooks](https://ahooks.js.org/zh-CN/) 阿里開源的 React Hooks 倉庫，提供了非常多實用的 Hook。
 
