@@ -80,4 +80,6 @@ App.scss
 [Tesseract.js](https://tesseract.projectnaptha.com/) is a pure Javascript port of the popular Tesseract OCR engine.  
 [react-draggable](https://www.npmjs.com/package/react-draggable) A simple component for making elements draggable.  
 [react-chat-elements](https://www.npmjs.com/package/react-chat-elements) Chat UI package for React  
+[rc-slider-captcha](https://www.npmjs.com/package/rc-slider-captcha) React 滑块验证码组件 
+[codesandbox](https://codesandbox.io/p/sandbox/chun-hua-kuai-wu-pin-tu-457228?file=%2FApp.tsx%3A9%2C21)  [CSS](https://github.com/caijf/rc-slider-captcha)   
 
