@@ -29,6 +29,11 @@ ts ex [next-i18next-typescript](https://github.com/isaachinman/next-i18next-type
 
 [next-themes](https://www.npmjs.com/package/next-themes) An abstraction for themes in your Next.js app 
 
+## i18n
+
+[react-i18next](https://react.i18next.com/)  
+[Next.js App Router with i18next (Tutorial)](https://i18nexus.com/tutorials/nextjs/react-i18next)  
+
 ## tsconfig.json
 
 找不到模組 '@layout/footer' 或其對應的型別宣告。
