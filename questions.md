@@ -1,3 +1,19 @@
+A parent component is able to pass its state onto children components. True or false?      
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: `True`  
+
+That's right! A child component will receive the data via properties, passing state that's set in a parent stateful component.      
+
+</p>
+</details>
+
+---
+
+
+
 Which of the following statements about data flow in React are correct?
 
 State data is data inside the component, and the component can control and mutate the data.     
