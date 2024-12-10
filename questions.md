@@ -31,3 +31,42 @@ That’s right! State data is a component’s internal data, which it can contro
 </details>
 
 ---
+
+Which of the following is true about the map() method in JavaScript. 
+Select all that apply.
+
+
+The map() method is a collection of elements.  
+
+The map() method returns a new array.  
+
+The map() method is useful for handling third party data.  
+
+The map() method is a transformation operation.  
+
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct
+
+
+The map() method returns a new array.
+
+> That’s correct. When using the map() method, you will need to define a new variable, as it always returns a new array.    
+
+The map() method is a transformation operation.
+
+> That’s correct. The map() method in JavaScript is used to transform lists of data.
+
+
+Not quite
+
+The map() method is a collection of elements.
+
+> Not quite. A list is a simple collection of elements, which translated to JavaScript terms represents an array.
+
+</p>
+</details>
+
+---
