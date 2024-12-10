@@ -53,7 +53,11 @@ The map() method is a transformation operation.
 
 The map() method returns a new array.
 
-> That’s correct. When using the map() method, you will need to define a new variable, as it always returns a new array.    
+> That’s correct. When using the map() method, you will need to define a new variable, as it always returns a new array.
+
+The map() method is useful for handling third party data.  
+
+>  That’s correct. Using the map() method in JavaScript to display data fetched from a third party or external provider differently in your app is a common use case of the map() method.
 
 The map() method is a transformation operation.
 
