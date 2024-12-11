@@ -100,3 +100,33 @@ To access the content of the variable that represents your list item.
 
 ---
 
+
+When chaining the three array operators required to complete the exercise, map, filter and sort; in which order should they be applied to props.data? Remember that props.data contains an array of dessert objects.
+
+`Sort, filter, map.` 
+
+`Map, filter, sort.` 
+
+`Filter, sort, map.` 
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct
+
+`Filter, sort, map.` 
+> That's correct, `filter` should go before `sort` since it returns a new array, making sure a copy of `props.data` is created before doing the sorting, which is a mutative operation. `Map` should be always the last, to transform the item into the final React Element that should be rendered.
+
+
+Incorrect
+
+`Map, filter, sort.` 
+> Not quite, if using map as the first operator to transform the item into a React element, filter and sort operators will lose the original desserts data needed to perform the filtering and sorting operations.
+
+</p>
+</details>
+
+---
+
+
+
